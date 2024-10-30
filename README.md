@@ -1,3 +1,4 @@
+# Yasin Oruc
 **Description of the TinyURL URL Shortener App**
 
 This application is a simple CLI-based URL shortener that uses the TinyURL API to convert long URLs into shorter versions. Users input a long URL, and the app generates a shortened version that can be directly copied and used. The app utilizes a `.env` file to securely store the API token, ensuring security and flexibility.
